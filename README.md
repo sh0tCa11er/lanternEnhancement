@@ -1,4 +1,4 @@
-#lanternEnhancement
+# lanternEnhancement
 ## FYI
 This is a self-improvement of lantern. If you are looking for original lantern, please visit https://github.com/getlantern/lantern.
 ## Target
